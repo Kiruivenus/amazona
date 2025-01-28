@@ -1251,18 +1251,18 @@ We also provide helpful resources such as order tracking, product guides, and FA
         pageSize: 9,
       },
       site: {
-        name: 'NxtAmzn',
+        name: 'VenusEmpire',
         description:
-          'NxtAmzn is a sample Ecommerce website built with Next.js, Tailwind CSS, and MongoDB.',
+          'VenusEmpire is a sample Ecommerce website built with Next.js, Tailwind CSS, and MongoDB.',
         keywords: 'Next Ecommerce, Next.js, Tailwind CSS, MongoDB',
         url: 'https://amazona-wwba.vercel.app',
         logo: '/icons/logo.svg',
         slogan: 'Spend less, enjoy more.',
-        author: 'Next Ecommerce',
-        copyright: '2000-2024, Next-Ecommerce.com, Inc. or its affiliates',
-        email: 'admin@example.com',
-        address: '123, Main Street, Anytown, CA, Zip 12345',
-        phone: '+1 (123) 456-7890',
+        author: 'Patrick Kirui',
+        copyright: '2000-2025, VenusEmpire stores, Inc. or its affiliates',
+        email: 'Patrickkirui413@gmail.com',
+        address: '205, Sotik, Bomet, KE, Zip 20406',
+        phone: '+254794424486',
       },
       carousels: [
         {

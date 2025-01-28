@@ -3,15 +3,15 @@
 1. create .env.local
 
    ```env
-    NEXT_PUBLIC_APP_NAME=NxtAmzn
+    NEXT_PUBLIC_APP_NAME=VenusEmpire
     NEXT_PUBLIC_APP_SLOGAN=Spend less, enjoy more.
-    NEXT_PUBLIC_APP_DESCRIPTION=An Amazon clone built with Next.js and MongoDB
+    NEXT_PUBLIC_APP_DESCRIPTION=An Online famous shopping
    ```
 
 2. lib/constants.ts
 
    ```ts
-   export const APP_NAME = process.env.NEXT_PUBLIC_APP_NAME || 'NxtAmzn'
+   export const APP_NAME = process.env.NEXT_PUBLIC_APP_NAME || 'VenusEmpire'
    export const APP_SLOGAN =
      process.env.NEXT_PUBLIC_APP_SLOGAN || 'Spend less, enjoy more.'
    export const APP_DESCRIPTION =

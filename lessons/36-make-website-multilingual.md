@@ -2287,7 +2287,7 @@ import { getSetting } from './setting.actions'
 ```ts
 -export const SERVER_URL =
 -  process.env.NEXT_PUBLIC_SERVER_URL || 'http://localhost:3000'
--export const APP_NAME = process.env.NEXT_PUBLIC_APP_NAME || 'NxtAmzn'
+-export const APP_NAME = process.env.NEXT_PUBLIC_APP_NAME || VenusEmpire'
 -export const APP_SLOGAN =
 -  process.env.NEXT_PUBLIC_APP_SLOGAN || 'Spend less, enjoy more.'
 -export const APP_DESCRIPTION =
